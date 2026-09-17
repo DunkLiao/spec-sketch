@@ -1,0 +1,170 @@
+{
+  "site": {
+    "title": "規格文件庫",
+    "subtitle": "SPEC Document Portal"
+  },
+  "projects": [
+    {
+      "project": "AI-應用",
+      "files": [
+        {
+          "file": "SPEC-2026 台北自動化大展銀行 AI Landing Page.md",
+          "title": "2026 台北自動化大展銀行 AI Landing Page 執行計畫"
+        },
+        {
+          "file": "SPEC-ai社群發文產生器.md",
+          "title": "AI Media Poster 規格書"
+        }
+      ]
+    },
+    {
+      "project": "Excel-VBA",
+      "files": [
+        {
+          "file": "SPEC-ExcelVba模組讀取工具.md",
+          "title": "SPEC.md — Excel VBA 模組匯出工具"
+        },
+        {
+          "file": "SPEC-個別減損評估明細表 - 資料彙整工具.md",
+          "title": "個別減損評估明細表 - 資料彙整工具 SPEC"
+        },
+        {
+          "file": "SPEC-批次整理報表（逾放月報彙整巨集）.md",
+          "title": "SPEC.md — 批次整理報表（自動判斷版）"
+        },
+        {
+          "file": "SPEC-批次整理報表（逾放月報貼值到預警指標統計資料）.md",
+          "title": "SPEC.md — 逾期放款前50大分行彙整巨集"
+        },
+        {
+          "file": "SPEC-放款代碼整理巨集.md",
+          "title": "放款代碼整理巨集 — 技術規格文件 (SPEC)"
+        }
+      ]
+    },
+    {
+      "project": "Go",
+      "files": [
+        {
+          "file": "SPE-Go Data Engine.md",
+          "title": "Go Data Engine — SPEC"
+        }
+      ]
+    },
+    {
+      "project": "LCR",
+      "files": [
+        {
+          "file": "SPEC-LCR控管系統-MVP.md",
+          "title": "SPEC — LCR 月底預估值試算資料控管系統（MVP 版）"
+        },
+        {
+          "file": "SPEC-LCR控管系統-方案三.md",
+          "title": "SPEC — LCR 月底預估值試算資料控管系統（方案三：自建 Web 系統）"
+        },
+        {
+          "file": "SPEC-LCR試算資料提供.md",
+          "title": "LCR 月底預估值試算資料提供需求規格"
+        }
+      ]
+    },
+    {
+      "project": "Rust-Tauri",
+      "files": [
+        {
+          "file": "SPEC-Rust桌面應用程式.md",
+          "title": "專案規格書 (Project Specification): {{應用程式名稱}}"
+        }
+      ]
+    },
+    {
+      "project": "新聞與爬蟲",
+      "files": [
+        {
+          "file": "SPEC-RSS新聞查詢平台技術規格書.md",
+          "title": "新聞查詢平台技術規格書 (SPEC)"
+        },
+        {
+          "file": "非Python技術棧選型.md",
+          "title": "爬取 Google 新聞功能 — 非 Python 技術棧選型指南"
+        }
+      ]
+    },
+    {
+      "project": "業務與管理系統",
+      "files": [
+        {
+          "file": "SPEC-新青安 3.0 房貸智慧試算與全方位購屋工具箱.md",
+          "title": "新青安 3.0 房貸智慧試算與全方位購屋工具箱 - 技術與系統規格書 (SPEC.md)"
+        },
+        {
+          "file": "SPEC-炫光霓虹待辦清單.md",
+          "title": "SPEC-炫光霓虹待辦清單"
+        },
+        {
+          "file": "SPEC-門診排班系統.md",
+          "title": "我要寫個門診排班網頁，提供我SPEC"
+        }
+      ]
+    },
+    {
+      "project": "資安工具",
+      "files": [
+        {
+          "file": "SPEC-可疑附件偵測與安全重新命名工具.md",
+          "title": "SPEC.md"
+        },
+        {
+          "file": "SPEC-可疑附件偵測與安全重新命名工具GUI版本.md",
+          "title": "SPEC.md"
+        }
+      ]
+    },
+    {
+      "project": "資料分析與儀表板",
+      "files": [
+        {
+          "file": "SPEC-Echart儀表板.md",
+          "title": "SPEC.md — ECharts 本地離線視覺化儀表板網頁"
+        },
+        {
+          "file": "SPEC-Next-Data-Analyzer.md",
+          "title": "Next Data Analyzer 系統流程與規格"
+        },
+        {
+          "file": "SPEC-NoneWeb-Data-Analyzer.md",
+          "title": "NoneWeb Data Analyzer 系統規格書 (System Specification)"
+        },
+        {
+          "file": "SPEC-Offline-Data-Analyzer.md",
+          "title": "SPEC-Offline-Data-Analyzer"
+        },
+        {
+          "file": "SPEC-Plotly Dash儀表板.md",
+          "title": "Plotly Dash儀表板 — 技術規格文件 (SPEC)"
+        },
+        {
+          "file": "SPEC-零售分析資訊圖翻頁書.md",
+          "title": "SPEC: 零售分析資訊圖翻頁書"
+        }
+      ]
+    },
+    {
+      "project": "離線-Web應用",
+      "files": [
+        {
+          "file": "SPEC-indexedDB+html.md",
+          "title": "專案需求規格書 (Specification)"
+        },
+        {
+          "file": "SPEC-規格與採購文件修改紀錄系統.md",
+          "title": "規格與採購文件修改紀錄系統 — 系統規劃書"
+        },
+        {
+          "file": "SPEC-需求追蹤控管系統.md",
+          "title": "需求追蹤控管系統 — 軟體規格文件（SPEC）"
+        }
+      ]
+    }
+  ]
+}

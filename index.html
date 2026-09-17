@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>規格文件庫</title>
+<meta name="description" content="SPEC.md 靜態文件平台（無資料庫、無後端）">
+<link rel="stylesheet" href="assets/css/style.css?v=monochrome-2">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='6' y='6' width='88' height='88' rx='22' fill='%23E0E3D6' stroke='%237C8C77' stroke-width='6'/><text x='50' y='70' font-size='52' text-anchor='middle' fill='%237C8C77' font-family='serif'>S</text></svg>">
+</head>
+<body>
+
+<header class="top">
+  <button id="menu-btn" type="button" title="選單">☰</button>
+  <div class="brand">
+    <div class="logo">S</div>
+    <div>
+      <div id="site-title">規格文件庫</div>
+      <div id="site-sub">SPEC Document Portal</div>
+    </div>
+  </div>
+
+  <div class="search-box">
+    <input id="search" type="search" autocomplete="off" spellcheck="false"
+           placeholder="搜尋文件…（Ctrl+K）">
+    <div id="results" hidden></div>
+  </div>
+
+  <div class="tools">
+    <button id="expand-btn" type="button" title="展開／收合全部目錄">展開</button>
+    <button id="print-btn" type="button" title="列印／另存 PDF">列印</button>
+    <button id="theme" type="button" title="深色／淺色模式">主題</button>
+  </div>
+</header>
+
+<nav class="side">
+  <div class="side-h"><span>文件目錄</span></div>
+  <div id="menu"></div>
+</nav>
+
+<main>
+  <div id="crumb">首頁</div>
+  <div id="content"><div class="loading">載入中…</div></div>
+</main>
+
+<aside class="toc"><div id="toc"></div></aside>
+
+<script src="assets/js/md.js"></script>
+<script src="assets/js/diagram.js"></script>
+<script src="assets/js/search.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
