@@ -126,6 +126,7 @@ header.top{
   font-family:var(--font-hand);
   transform:rotate(-2.5deg);
   box-shadow:var(--ink-shadow);
+  cursor:pointer;
 }
 #site-title{font-size:16px;font-weight:700;line-height:1.25;font-family:var(--font-hand);
   letter-spacing:.5px}
