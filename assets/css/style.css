@@ -214,7 +214,7 @@ nav.side{
 .doc-link{
   display:block;padding:5px 10px;border-radius:var(--r-soft);
   font-size:13px;color:var(--txt2);
-  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  white-space:normal;overflow-wrap:anywhere;word-break:break-word;
   border:2px solid transparent;
 }
 .doc-link:hover{background:var(--panel2);color:var(--txt);border-color:var(--line)}

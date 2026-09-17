@@ -63,10 +63,9 @@
         '<span class="grp-cnt">' + p.files.length + '</span></div><div class="grp-b">';
       p.files.forEach(function (f) {
         var name = typeof f === 'string' ? f : f.file;
-        var title = (typeof f === 'string' ? f : (f.title || f.file)).replace(/\.md$/i, '');
         html += '<a class="doc-link" href="#/' + encodeURIComponent(p.project) + '/' +
           encodeURIComponent(name) + '" data-p="' + esc(p.project) + '" data-f="' +
-          esc(name) + '">' + esc(title) + '</a>';
+          esc(name) + '">' + esc(name) + '</a>';
       });
       html += '</div></div>';
     });
